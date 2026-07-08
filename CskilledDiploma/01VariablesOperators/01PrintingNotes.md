@@ -1,6 +1,6 @@
 #printing notes 
 
-| content index | 
+## content index  
 |---------|
 | Variables |
 | Loops |
