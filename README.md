@@ -7,4 +7,4 @@ This is my notes and homework for my Python journey.
 
 ##  100DaysOfCode
 - [ ] Day01/
-- [ ]Day02/
+- [ ] Day02/
