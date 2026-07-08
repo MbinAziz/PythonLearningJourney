@@ -5,6 +5,5 @@
 * Comments
 * Case Sensitive
 * Escape Characters
-* Handling errors
 * Indentation
 * Python Enhancement Proposal 8
