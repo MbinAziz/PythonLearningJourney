@@ -1,10 +1,10 @@
 # printing notes 
 
 ## content index  
-* Python interpretar
+* Python Interpreter
 * Comments
 * Escape Characters
 * Indentation
 * Python Enhancement Proposal 8
 ------
-### Python interpretar
+### Python Interpreter
