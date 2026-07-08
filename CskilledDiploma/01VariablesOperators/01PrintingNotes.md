@@ -1,3 +1,1 @@
-#printing snotes 
-
-we have in python
+#printing notes 
