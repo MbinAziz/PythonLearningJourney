@@ -1,11 +1,10 @@
 # PythonLearningJourney/
-''' This is my notes and homework for myy python journey'''
+This is my notes and homework for my Python journey.
   
 ##   CskilledDiploma/ 
 *    01VariablesOperators/
 *    02SelectionAndLoops/
 
 ##  100DaysOfCode
-   *    Day01/
-   *    Day02/
-    README.md
+*    Day01/
+*    Day02/
