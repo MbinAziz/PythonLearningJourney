@@ -1,6 +1,6 @@
-#printing notes 
+# printing notes 
 
-##content index  
+## content index  
 * Python interpretar
 * Comments
 * Case Sensitive
