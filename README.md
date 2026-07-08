@@ -1,5 +1,5 @@
 # PythonLearningJourney/
-' This is my notes and homework for myy python journey
+''' This is my notes and homework for myy python journey'''
   
 ##   CskilledDiploma/ 
 *    01VariablesOperators/
