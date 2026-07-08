@@ -8,10 +8,3 @@
 ##  100DaysOfCode
 - [ ] Day01/
 - [ ] Day02/
-
-| Section | Status |
-|---------|--------|
-| Variables | ✅ |
-| Loops | ✅ |
-| Functions | ⏳ |
-| OOP | ❌ |
