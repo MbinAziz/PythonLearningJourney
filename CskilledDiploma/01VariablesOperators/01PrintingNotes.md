@@ -1,10 +1,9 @@
-# printing notes 
+## Topics Covered
 
-## content index  
-* Python Interpreter
-* Comments
-* Escape Characters
-* Indentation
-* Python Enhancement Proposal 8
-------
-### Python Interpreter
+- Printing with `print()`
+- Python Interpreter
+- Comments
+- Escape Characters
+- Indentation
+- Python Enhancement Proposal 8 (PEP 8)
+- Naming Conventions
